@@ -1,0 +1,16 @@
+INSERT INTO leaderboard_db.countries (country_name) VALUES
+('Japan'),
+('Sweden'),
+('USA'),
+('Turkey'),
+('Germany'),
+('France'),
+('Brazil'),
+('Canada'),
+('Australia'),
+('South Korea'),
+('India'),
+('UK'),
+('China'),
+('Italy'),
+('Spain');
